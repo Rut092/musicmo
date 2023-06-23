@@ -1,9 +1,10 @@
-
+import Login from "./Components/Login";
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello</h1>
+    <div className="app">
+      <Login />
     </div>
   );
 }

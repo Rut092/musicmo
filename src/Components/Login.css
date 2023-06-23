@@ -1,0 +1,30 @@
+.lottie-guitar {
+  height: 20rem;
+  width: 20rem;
+  margin: auto auto;
+  padding-top: 5rem;
+}
+.go-to {
+  background-color: #d2e9e9;
+  height: auto;
+  width: auto;
+  margin: 7rem 10rem;
+  padding: 0rem 0 3rem 0rem;
+  border-radius: 3rem;
+}
+
+.button {
+  text-align: center;
+  justify-content: center;
+  margin: 1rem auto;
+  display: flex;
+  background-color: aliceblue;
+  width: 25rem;
+  border-radius: 5rem;
+}
+
+.cd {
+  height: 5rem;
+  width: 5rem;
+  margin-left: 0.5rem;
+}
